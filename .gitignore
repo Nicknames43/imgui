@@ -22,7 +22,9 @@ ipch
 *.ilk
 *.user
 *.sdf
+*.sln
 *.suo
+*.vcxproj*
 *.VC.db
 *.VC.VC.opendb
 
